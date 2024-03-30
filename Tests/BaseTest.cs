@@ -1,6 +1,5 @@
 ﻿using NunitCoreFramework.Driver;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 
 namespace NunitCoreFramework.Tests
 {

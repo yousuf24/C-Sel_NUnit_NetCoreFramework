@@ -1,6 +1,5 @@
 ﻿using NunitCoreFramework.Driver;
 using NunitCoreFramework.Pages;
-using NunitCoreFramework.Tests;
 using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 using TechTalk.SpecFlow.Assist;
