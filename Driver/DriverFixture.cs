@@ -18,8 +18,7 @@ namespace NunitCoreFramework.Driver
                 BrowserType.EDGE => new EdgeDriver(),
                 _ => new ChromeDriver()
 
-            };
-            
+            };            
             return this.Driver;
         }
         /// <summary>
