@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NunitCoreFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28746fe819d9d3ecf0803b31fa8ea263906207a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5ef0577796284e8f3cc807263f5847647ab9462")]
 [assembly: System.Reflection.AssemblyProductAttribute("NunitCoreFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NunitCoreFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
